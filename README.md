@@ -1,2 +1,2 @@
 # AutoEncoders
-AE, VAE and CVAE in PyTorch
+AE, VAE, and CVAE in PyTorch
